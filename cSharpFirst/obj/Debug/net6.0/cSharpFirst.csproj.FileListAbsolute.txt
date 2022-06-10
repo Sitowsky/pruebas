@@ -1,0 +1,15 @@
+/home/fabricio/Documents/test/cSharpFirst/bin/Debug/net6.0/cSharpFirst
+/home/fabricio/Documents/test/cSharpFirst/bin/Debug/net6.0/cSharpFirst.deps.json
+/home/fabricio/Documents/test/cSharpFirst/bin/Debug/net6.0/cSharpFirst.runtimeconfig.json
+/home/fabricio/Documents/test/cSharpFirst/bin/Debug/net6.0/cSharpFirst.dll
+/home/fabricio/Documents/test/cSharpFirst/bin/Debug/net6.0/cSharpFirst.pdb
+/home/fabricio/Documents/test/cSharpFirst/obj/Debug/net6.0/cSharpFirst.csproj.AssemblyReference.cache
+/home/fabricio/Documents/test/cSharpFirst/obj/Debug/net6.0/cSharpFirst.GeneratedMSBuildEditorConfig.editorconfig
+/home/fabricio/Documents/test/cSharpFirst/obj/Debug/net6.0/cSharpFirst.AssemblyInfoInputs.cache
+/home/fabricio/Documents/test/cSharpFirst/obj/Debug/net6.0/cSharpFirst.AssemblyInfo.cs
+/home/fabricio/Documents/test/cSharpFirst/obj/Debug/net6.0/cSharpFirst.csproj.CoreCompileInputs.cache
+/home/fabricio/Documents/test/cSharpFirst/obj/Debug/net6.0/cSharpFirst.dll
+/home/fabricio/Documents/test/cSharpFirst/obj/Debug/net6.0/refint/cSharpFirst.dll
+/home/fabricio/Documents/test/cSharpFirst/obj/Debug/net6.0/cSharpFirst.pdb
+/home/fabricio/Documents/test/cSharpFirst/obj/Debug/net6.0/cSharpFirst.genruntimeconfig.cache
+/home/fabricio/Documents/test/cSharpFirst/obj/Debug/net6.0/ref/cSharpFirst.dll
